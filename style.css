@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainbox{
+    width: 40%;
+    min-height: 10px;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid;
+}
+
+.mainbox button{
+    width: 93%;
+}
+
+.mainbox p {
+    display: none;
+}
+
+.headarea i{
+    background: orange;
+    padding: 2px;
+    border-radius: 50%;
+    display: none;
+    margin-right: 2px;
+}
+
+#f1{
+    display: inline-block;
+}
+
+#f2{
+    background: red;
+}
